@@ -41,7 +41,6 @@
 		5841D2F5257A888A00CCE5F7 /* clp_error.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = clp_error.c; sourceTree = "<group>"; };
 		5841D2F7257A8AD300CCE5F7 /* clp_util.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = clp_util.h; sourceTree = "<group>"; };
 		5841D2F8257A8C4C00CCE5F7 /* clp_util.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = clp_util.c; sourceTree = "<group>"; };
-		5841D310257C24BC00CCE5F7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +75,6 @@
 			children = (
 				5841D2E1257A82F500CCE5F7 /* main.c */,
 				5841D2EE257A848900CCE5F7 /* clp.h */,
-				5841D310257C24BC00CCE5F7 /* README.md */,
 				5841D2EF257A848900CCE5F7 /* clp.c */,
 				5841D2F7257A8AD300CCE5F7 /* clp_util.h */,
 				5841D2F8257A8C4C00CCE5F7 /* clp_util.c */,
